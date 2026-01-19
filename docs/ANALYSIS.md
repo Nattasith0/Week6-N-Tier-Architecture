@@ -379,33 +379,29 @@ Trigger/เงื่อนไข:
 
 ### Screenshot 1: Services Status
 
-```
-(แนบรูป: sudo systemctl status postgresql nginx + pm2 status)
-```
+
+<img width="1086" height="755" alt="Screenshot 2026-01-19 113904" src="https://github.com/user-attachments/assets/c826b44a-121d-4208-936a-079fc2f844ff" />
+
 
 ### Screenshot 2: HTTPS in Browser
 
-```
-(แนบรูป: Browser แสดง https://taskboard.local พร้อมคำเตือน self-signed/หรือ lock icon หลัง proceed)
-```
+<img width="1919" height="1082" alt="Screenshot 2026-01-19 113923" src="https://github.com/user-attachments/assets/e0283b66-33ad-4585-9831-c41cd69eeca3" />
+
 
 ### Screenshot 3: API Response
 
-```
-(แนบรูป: curl -k https://taskboard.local/api/tasks)
-```
+<img width="1048" height="698" alt="Screenshot 2026-01-19 114120" src="https://github.com/user-attachments/assets/1726823a-8665-4fe4-bf88-a90dc39ecec1" />
+
 
 ### Screenshot 4: Task Board UI Working
 
-```
-(แนบรูป: หน้า Task Board พร้อม tasks)
-```
+<img width="1829" height="979" alt="Screenshot 2026-01-19 114325" src="https://github.com/user-attachments/assets/a658dadb-fd83-4e9b-8b77-2c0a109f20b1" />
+
 
 ### Screenshot 5: Create/Edit Task
 
-```
-(แนบรูป: สร้างหรือแก้ไข task)
-```
+<img width="1756" height="820" alt="Screenshot 2026-01-19 114406" src="https://github.com/user-attachments/assets/f834210f-1209-4faa-b442-f06d796a3981" />
+
 
 ---
 
@@ -428,9 +424,6 @@ Trigger/เงื่อนไข:
 * [ ] Screenshots ครบ 5 รูป
 * [ ] Push ไป GitHub แล้ว
 
----
-
-**หมายเหตุ:** เอกสารนี้มีน้ำหนัก **37.5%** ของคะแนนทั้งหมด โปรดตอบอย่างละเอียดและจริงใจ!
 
 ---
 
